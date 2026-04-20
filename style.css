@@ -97,7 +97,7 @@ body{
 
 /* 315deg + 45deg inner */
 .button-51 {
-    box-shadow: 0px 6px 6px #03D8F3;
+    box-shadow: 6px 6px 6px #03D8F3;
   background: linear-gradient(225deg, transparent 4.3%, #FCEE0C 4.3%);
     display: inline-block;
   margin-right: 12px;  /* or whatever spacing you want */
